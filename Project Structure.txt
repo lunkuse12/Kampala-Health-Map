@@ -1,0 +1,10 @@
+kampala-health-map/
+│
+├── index.html
+├── styles/
+│   └── main.css
+├── js/
+│   ├── app.js
+│   └── data.js
+└── assets/
+    └── (for any images or icons)
